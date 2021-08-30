@@ -1,0 +1,505 @@
+/*navbar hamburger*/
+
+@media (max-width: 450px){
+.headerul  {
+	display: none;
+}
+}
+@media(max-width: 993px){
+	.headerul  {
+	display: none;
+}
+	.hamburger{
+		opacity: 1;
+	}
+	.hamburger div{
+		opacity: 1;
+	}
+}
+
+/*end*/
+
+@media only screen and (max-height: 1400px) and (min-height: 1200px){
+
+
+
+}
+
+@media only screen and (max-height: 1200px) and (min-height: 1000px){
+
+.wb4{
+	height: 43% !important;
+}
+
+.info-box i{
+	font-size: 35px !important;
+	margin-left: -10% !important;
+}
+
+.masthead-heading, .line, .submit{
+	margin-left: 4% !important;
+}
+
+.submit{
+	margin-top: 5% !important;
+}
+
+.in-head{
+	text-align: left !important;
+	margin-left: 0% !important;
+}
+
+.info-box{
+	margin-left: 8% !important;
+}
+
+.line1, .line2, .line3{
+	margin-left: -3%;
+}
+
+.info-box p{
+    font-size: 1.8rem !important;
+    line-height: 30px  !important;
+    margin-left: -4% !important;
+}
+
+.button{
+	font-size: 2.5rem;
+	width: 93%;
+	margin-left: 1%;
+}
+
+.ic{
+	max-height: 30%;
+	margin-top: 18%;
+}
+
+.ic1{
+	max-height: 25% !important;
+	margin-top: 17% !important;
+}
+
+.tent{
+	margin-top: 10% !important;
+	width: 90%;
+	font-size: 2.5rem !important;
+}
+
+.hen{
+	margin-top: 5%;
+}
+
+.con{
+	margin-top: 8% !important;
+	font-size: 4rem;
+}
+
+.con1{
+	font-size: 2rem !important;
+}
+
+.ham{
+	margin-top: 10% !important;
+}
+
+}
+
+@media only screen and (max-width: 1254px) and (min-width: 992px){
+
+.wb3{
+	top: 169%;
+}
+
+.wb4{
+	top: 223%;
+	height: 50%;
+}
+
+.in-head{
+	font-size: 19px;
+	margin-left: -53%;
+}
+
+.info-box i{
+	margin-left: -11.5%;
+	margin-bottom: 5px;
+}
+
+.info-box p{
+	margin-top: 37%;
+}
+
+.most{
+	margin-left: -23% !important;
+}
+
+.most1{
+	margin-left: -43% !important;
+}
+
+}
+
+@media only screen and (max-width: 992px) and (min-width: 768px){
+
+.wb3{
+	top: 183%;
+}
+
+.wb4{
+	top: 244%;
+	height: 50%;
+}
+
+.wb1{
+	background-position: 70% 0%;
+    background-size: 100% 100%;
+}
+
+.in-head{
+	font-size: 1.2rem;
+	margin-left: -53%;
+}
+
+.info-box i{
+	margin-left: -12%;
+	margin-bottom: 5px;
+}
+
+.info-box p{
+	margin-top: 60%;
+}
+
+.button{
+	font-size: 2.3rem;
+	margin-left: 1%;
+}
+
+.ic{
+	max-height: 33%;
+	margin-top: 15%;
+}
+
+.ic1{
+	max-height: 28%;
+}
+
+.tent{
+	margin-top: 13%;
+}
+
+}
+
+@media only screen and (max-width: 768px) and (min-width: 600px){
+
+.hamul li{
+	padding-right: 30px;
+}
+
+.wb1{
+	background-position: 70% 10%;
+    background-size: 640px 555px;
+}
+
+.wb3{
+	top: 164%;
+	height: 52%;
+}
+
+.wb4{
+	top: 218%;
+	height: 50%;
+}
+
+.info-box i{
+	font-size: 55px;
+	margin-left: 0%;
+}
+
+.masthead-heading, .line, .submit{
+	margin-left: 30%;
+}
+
+.submit{
+	margin-top: 10%;
+}
+
+.in-head{
+	text-align: left !important;
+	margin-left: 0% !important;
+}
+
+.info-box{
+	margin-left: 5.5% !important;
+}
+
+.line1, .line2, .line3{
+	margin-left: 0%;
+}
+
+.info-box p{
+	margin-left: 0;
+	font-size: 2.4rem;
+	letter-spacing: 2px;
+	line-height: 40px;
+}
+
+.button{
+	font-size: 2.5rem;
+	width: 93%;
+	margin-left: 1%;
+}
+
+.ic{
+	max-height: 29%;
+	margin-top: 18%;
+}
+
+.ic1{
+	max-height: 23%;
+	margin-top: 10%;
+}
+
+.tent{
+	margin-top: 97%;
+	width: 90%;
+	font-size: 2.8rem;
+}
+
+.hen{
+	margin-top: 5%;
+}
+
+.con{
+	margin-top: 70%;
+	font-size: 4rem;
+}
+
+.con1{
+	font-size: 3rem;
+}
+
+.ham{
+	margin-top: 10% !important;
+}
+
+}
+
+
+@media only screen and (max-width: 600px) and (min-width: 480px) {
+
+.hamul li{
+	padding-right: 65px; 
+}
+
+.hamul{
+	width: 50%;
+	height: 85%;
+}
+
+
+.wb3{
+	top: 163%;
+	height: 52%;
+}
+
+.wb4{
+	top: 216%;
+	height: 40%;
+}
+
+.wb1{
+	background-position: 70% 0%;
+    background-size: 990px 990px;
+}
+
+.info-box i{
+	font-size: 55px;
+	margin-left: 0%;
+}
+
+.masthead-heading, .line, .submit{
+	margin-left: 26%;
+}
+
+.submit{
+	margin-top: 10%;
+}
+
+.in-head{
+	text-align: left !important;
+	margin-left: 0% !important;
+}
+
+.info-box{
+	margin-left: 5.5% !important;
+}
+
+.line1, .line2, .line3{
+	margin-left: 0%;
+}
+
+.info-box p{
+	margin-left: 0;
+	font-size: 2.4rem;
+	letter-spacing: 2px;
+	line-height: 40px;
+}
+
+.button{
+	font-size: 2.5rem;
+	width: 93%;
+	margin-left: 1%;
+}
+
+.ic{
+	max-height: 27%;
+	margin-top: 18%;
+}
+
+.ic1{
+	max-height: 22%;
+	margin-top: 10%;
+}
+
+.tent{
+	margin-top: 103%;
+	width: 90%;
+	font-size: 2.8rem;
+}
+
+.hen{
+	margin-top: 5%;
+}
+
+.con{
+	margin-top: 70%;
+	font-size: 4rem;
+}
+
+.con1{
+	font-size: 3rem;
+}
+
+.ham{
+	margin-top: 10% !important;
+}
+
+}
+
+@media only screen and (max-width: 480px) and (min-width: 270px) {
+
+.hamul li{
+	padding-right: 50px; 
+}
+
+.hamul{
+	width: 60%;
+	height: 70%
+}
+
+.wb1{
+	background-position: 70% 0%;
+    background-size: 900px 900px;
+}
+
+.wb3{
+	top: 165%;
+	height: 38%;
+}
+
+.wb4{
+	top: 205%;
+	height: 32%;
+}
+
+.info-box i{
+	font-size: 55px;
+	margin-left: 0%;
+}
+
+.masthead-heading, .line, .submit{
+	margin-left: 26%;
+}
+
+.masthead-heading{
+	font-size: 60px;
+	line-height: 60px;
+}
+
+.submit{
+	margin-top: 12%;
+}
+
+.in-head{
+	text-align: left !important;
+	margin-left: 0% !important;
+}
+
+.info-box{
+	margin-left: 5.5% !important;
+}
+
+.line1, .line2, .line3{
+	margin-left: 0%;
+}
+
+.info-box p{
+	margin-left: 0;
+	font-size: 2.4rem;
+	letter-spacing: 2px;
+	line-height: 40px;
+}
+
+.button{
+	font-size: 2.5rem;
+	width: 93%;
+	margin-left: 1%;
+	margin-top: 18%;
+}
+
+.ic{
+	max-height: 23%;
+	margin-top: 18%;
+}
+
+.ic1{
+	max-height: 19%;
+	margin-top: 15%;
+}
+
+.tent{
+	margin-top: 110%;
+	width: 90%;
+	font-size: 2rem;
+}
+
+.hen{
+	margin-top: 15%;
+}
+
+.con{
+	margin-top: 77%;
+	font-size: 4rem;
+}
+
+.con1{
+	font-size: 2rem;
+}
+
+.ham{
+	margin-top: 10% !important;
+}
+
+}
+
+@media only screen and (max-height: 321px){
+.hamul li{
+	padding-right: 50px; 
+}
+
+.hamul{
+	width: 70%;
+	height: 85%
+}
+
+}
